@@ -1,0 +1,8 @@
+Die Grünen	Termine	19	48	70	Anwesenheit	16	43	69	Prozente	80	90	98
+Piraten	Termine	56	63	70	Anwesenheit	52	60	69	Prozente	92	95	98
+DIE LINKE	Termine	29	64	70	Anwesenheit	25	50	66	Prozente	51	78	94
+SPD	Termine	5	50	70	Anwesenheit	4	43	65	Prozente	44	83	100
+FDP	Termine	14	28	54	Anwesenheit	11	23	49	Prozente	66	81	92
+CDU	Termine	6	55	70	Anwesenheit	4	43	64	Prozente	45	78	91
+Bürger für Jena	Termine	17	50	70	Anwesenheit	15	38	64	Prozente	61	77	91
+Die Guten	Termine	70	70	70	Anwesenheit	32	32	32	Prozente	45	45	45

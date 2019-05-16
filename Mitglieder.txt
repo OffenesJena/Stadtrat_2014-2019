@@ -1,0 +1,105 @@
+﻿Dr. Albrecht Schröter	OB(-30.06.2018)	M
+#Dr. Thomas Nitzsche	FDP(-31.05.2018)|OB(31.05.2018-)	M
+Dr. Thomas Nitzsche	FDP(-31.05.2018)	M
+#
+#Denis Peisker	Dezernent(-31.01.2019)	M
+#Frank Jauch	Dezernent(-31.08.2018)	M
+#Frank Schenker	Dezernent(-31.08.2018)	M
+#Christian Gerlitz	SPD(-31.01.2019)|Dezernent(31.01.2019-)	M
+Christian Gerlitz	SPD(-31.01.2019)	M
+#Eberhard Hertzsch	Dezernent(01.09.2018-)	M
+#Benjamin Koppe	CDU(-31.08.2018)|Dezernent(01.09.2018-)	M
+Benjamin Koppe	CDU(-31.08.2018)	M
+#
+Carolin Weingart	DIE LINKE(-31.07.2016)	W
+Martina Flämmich-Winckler	DIE LINKE	W
+Dr. Beate Jonscher	DIE LINKE	W
+Dr. Karin Kaschuba	DIE LINKE	W
+Katharina König-Preuss	DIE LINKE	W
+Julia Langhammer	DIE LINKE	W
+Ralph Lenkert	DIE LINKE	M
+Dr. Gudrun Lukin	DIE LINKE	W
+Frank Mechold	DIE LINKE(24.08.2016-)	M
+Prof. Dr. Werner Riebel	DIE LINKE	M
+Jens Thomas	DIE LINKE	M
+Reinhard Wöckel	DIE LINKE	M
+#
+Matthias Frommann	CDU(19.09.2018-01.01.2019)	M
+Norbert Comouth	CDU	M
+Brünnhild Egge	CDU	W
+Rosa Maria Haschke	CDU	W
+Prof. Dr. Johanna Hübscher	CDU	W
+Richard Machnik	CDU(23.01.2019-)	M
+Florian Poser	CDU	M
+Prof. Dr. Dietmar Schuchardt	CDU	M
+Reyk Seela	CDU	M
+Bastian Stein	Die Grünen(23.03.2016-04.06.2018)|CDU(04.06.2018-)	M
+Elisabeth Wackernagel	CDU	W
+Guntram Wothly	CDU	M
+#
+Prof. Dr. Thomas Deufel	SPD(-31.12.2014)	M
+Janek Löbel	SPD(-30.04.2018)	M
+Ralf Tänzer	SPD(-30.09.2016)	M
+Marcus Komann	SPD(20.02.2019-)	M
+#Dr. Holger Becker	Ortsteilbürgermeister(-28.01.2015)|SPD(28.01.2015-)	M
+Dr. Holger Becker	SPD(28.01.2015-)	M
+Volker Blumentritt	SPD	M
+René Czainski	SPD(16.05.2018-)	M
+Friedrich-Wilhelm Gebhardt	SPD	M
+Markus Giebe	SPD	M
+Katja Glybowskaja	SPD	W
+#Dr. Christoph Vietze	Ortsteilbürgermeister(05.06.2016-25.10.2016)|SPD(26.10.2016-)	M
+Dr. Christoph Vietze	SPD(26.10.2016-)	M
+Dr. Jörg Vogel	SPD	M
+Sabine Wosche	SPD	W
+#
+Sophie-Maria Voss	Die Grünen(-20.10.2015)	W
+Dr. Margret Franz	Die Grünen	W
+Ralf Kleist	Die Grünen(21.10.2015-)	M
+Heiko Knopf	Die Grünen	M
+Tilo Schieck	Die Grünen	M
+#
+Siegfried Ferge	Bürger für Jena(24.08.2016-20.04.2018)	M
+Heidrun Schrade	Bürger für Jena(-30.06.2016)	W
+Dr. Eckhard Birckner	Bürger für Jena	M
+Jürgen Haschke	Bürger für Jena(16.05.2018-)	M
+Jürgen Häkanson-Hall	Bürger für Jena	M
+Lothar König	Bürger für Jena	M
+Susanne Schlegel	Bürger für Jena	W
+#
+Dr. Reinhard Bartsch	FDP(13.06.2018-)	M
+Prof.Dr. Clemens Beckstein	Piraten(-26.07.2018)|FDP(26.07.2018-)	M
+Alexis Taeger	FDP(24.02.2016-26.07.2018)	M
+Andreas Wiese	FDP(-31.01.2016)	M
+#
+Dr. Heidrun Jänchen	Piraten	W
+Martin Michel	Die Guten	M
+#
+###Lutz Arnold	Ortsteilbürgermeister Cospeda	M
+###Herbert Brauns	Ortsteilbürgermeister Burgau	M
+###Sandro Felix Dreßler	Ortsteilbürgermeister Maua	M
+###Ivonne Fischer	Ortsteilbürgermeister Göschwitz	W
+###Reinhard Franke	Ortsteilbürgermeister Lützeroda	M
+###Ralf Hertig	Ortsteilbürgermeister Jenaprißnitz/Wogau	M
+###Olaf Horn	Ortsteilbürgermeister Kernberge	M
+###Eberhard Kalus	Ortsteilbürgermeister Ammerbach	M
+###Dr. Waldemar Kühner	Ortsteilbürgermeister Zwätzen	M
+###Klaus Liebold	Ortsteilbürgermeister Lobeda-Altstadt	M
+###Sten Lindner	Ortsteilbürgermeister Jena-Süd	M
+###Oliver Majuntke	Ortsteilbürgermeister Isserstedt	M
+###Michael Mau	Ortsteilbürgermeister Kunitz/Laasan	M
+###Silke Meier	Ortsteilbürgermeisterin Wöllnitz	W
+###Elisabeth Maria Meyer	Ortsteilbürgermeisterin Ilmnitz	W
+###Michael Müller	Ortsteilbürgermeister Lichtenhain	M
+###Petra Müller	Ortsteilbürgermeisterin Krippendorf	M
+###Kristian Philler	Die Grünen(-20.03.2016)|Ortsteilbürgermeister Jena-Zentrum	M
+Kristian Philler	Die Grünen(-20.03.2016)	M
+###Maik Prinz	Ortsteilbürgermeister Münchenroda/Remderoda	M
+###Rainer Raithel	Ortsteilbürgermeister Drackendorf	M
+###Dieter Richter	Ortsteilbürgermeister Vierzehnheiligen	M
+###Jörg Rosenberger	Ortsteilbürgermeister Leutra	M
+###Andreas Schlegel	Ortsteilbürgermeister Closewitz	M
+###Gabriele Schreier	Ortsteilbürgermeisterin Ziegenhain	W
+###Karsten Seifarth	Ortsteilbürgermeister Löbstedt	M
+#
+#Angelika Weigelt	Schriftführerin	W

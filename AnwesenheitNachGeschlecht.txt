@@ -1,0 +1,2 @@
+W	Termine	19	63	70	Anwesenheit	16	50	69	Prozente	45	79	98
+M	Termine	5	48	70	Anwesenheit	4	40	66	Prozente	44	81	100
